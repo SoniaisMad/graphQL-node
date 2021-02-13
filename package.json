@@ -1,0 +1,22 @@
+{
+  "name": "friends-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "SoniaIsMad",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-koa": "^2.19.2",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.2",
+    "knex": "^0.21.17",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-helmet": "^6.0.0",
+    "koa-router": "^10.0.0",
+    "pg": "^8.5.1"
+  }
+}
